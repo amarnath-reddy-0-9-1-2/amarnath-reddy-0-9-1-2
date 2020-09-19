@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+#### This is Amarnath Reddy
+
+I am a Data Science Enthusiast and Deep Learning Engineer
+
+Deep Learning Intern at Appcilous Pvt.Ltd
+
+
 <!--
 **amarnath-reddy-0-9-1-2/amarnath-reddy-0-9-1-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
