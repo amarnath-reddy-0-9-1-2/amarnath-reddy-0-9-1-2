@@ -1,10 +1,7 @@
 ### Hi there 👋
 
 #### This is Amarnath Reddy
-
-I am a Data Science Enthusiast and Deep Learning Engineer
-
-Deep Learning Intern at Appcilous Pvt.Ltd
+SWE@NIQ
 
 
 <!--
